@@ -13,3 +13,5 @@ basic = a simple working program
 graph = enhancement of basic with graphics of the results
 
 infinite = simple program that goes indefinitely
+
+clltzv1 = complete program with all the files
