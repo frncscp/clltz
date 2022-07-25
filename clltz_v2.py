@@ -1,4 +1,4 @@
-from clltz_v1_main import clltz
+from clltz_module_v2 import clltz
 import matplotlib.pyplot as plt # for graphing
 while True:
     x = input(f'{"*"*14}clltz{"*"*14}\n{"*"*8}github.com/frncscp{"*"*7}\n{"*"*33}\nCollatz Conjecture describes a prediction to any given n natural number following this instructions:\nif its even, n/2;\nif its odd, 3n+1;\nand it will end up in a 4, 2, 1 loop.\n\nMENU:\n1)Basic: executes the conjecture in one number.\n2)Graph: enhancement of basic with graphication of the conjecture.\n3)Infinite: executing the conjecture to consecutive numbers indefinitely.\nType your choice here: ')
